@@ -1,4 +1,6 @@
 Netflix Data Analysis
+
+
 This project explores the Netflix dataset to uncover insights about the platform's content trends, such as movie and TV show distributions, release patterns, popular genres, and more. The goal was to clean, analyze, and visualize the data to support business decisions and audience understanding.
 
 Tools & Technologies Used
